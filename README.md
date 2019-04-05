@@ -6,9 +6,9 @@
 
 1. Edit this program. Make sure you enter the value of title, creator and description.
 
-2. edit the List named htmllist, enter the correct value you have.
+2. Edit the List named htmllist, enter the correct value you have.
 
-3. Prepare your image files and html document, copy all of them to this programe's root directory. Like this:
+3. Prepare your image files and html document, copy all of them to the root directory of this program. A file tree like this:
 
 + /images/ (optional)
 
@@ -22,8 +22,6 @@
 
 + chapterx.html
 
-+ PyEpub.py
-
 ## Feature in the future
 
-1. Save lightnovel's novel publish page ([like this](https://www.lightnovel.cn/thread-858849-1-1.html)) and convert into a epub book.
+1. Save lightnovel's novel publish webpage ([like this](https://www.lightnovel.cn/thread-858849-1-1.html)) and convert into a epub book.
